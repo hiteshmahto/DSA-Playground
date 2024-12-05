@@ -25,10 +25,11 @@ The primary goal of this repository is to document my journey of mastering Data 
 
 ## LeetCode Solutions 💻
 
-| Question Number | Question Title & Solution                      | Topics                                  |                       Difficulty                       |
-| :-------------: | :--------------------------------------------- | :-------------------------------------- | :----------------------------------------------------: |
-|      0075.      | [Sort Colors](Leetcode_Medium/SortColors.java) | _Arrays, Dutch National Flag Algorithm_ | ![Medium](https://img.shields.io/badge/-Medium-orange) |
-|        -        | []()                                           | _-_                                     |                           -                            |
+| Question Number | Question Title & Solution                                        | Topics                                  |                       Difficulty                       |
+| :-------------: | :--------------------------------------------------------------- | :-------------------------------------- | :----------------------------------------------------: |
+|      0008.      | [String to Integer (atoi)](Leetcode_Medium/StringToInteger.java) | _Strings_                               | ![Medium](https://img.shields.io/badge/-Medium-orange) |
+|      0075.      | [Sort Colors](Leetcode_Medium/SortColors.java)                   | _Arrays, Dutch National Flag Algorithm_ | ![Medium](https://img.shields.io/badge/-Medium-orange) |
+|        -        | []()                                                             | _-_                                     |                           -                            |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
@@ -36,10 +37,11 @@ The primary goal of this repository is to document my journey of mastering Data 
 
 ## GeeksforGeeks Solutions 💡
 
-| S.No | Question Title & Solution                        | Topics                                  |                       Difficulty                        |
-| :--: | :----------------------------------------------- | :-------------------------------------- | :-----------------------------------------------------: |
-|  1.  | [Sort 0s, 1s and 2s](GeeksforGeeks/Sort012.java) | _Arrays, Dutch National Flag Algorithm_ | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
-|  -   | []()                                             | -                                       |                            -                            |
+| S.No | Question Title & Solution                          | Topics                                  |                       Difficulty                        |
+| :--: | :------------------------------------------------- | :-------------------------------------- | :-----------------------------------------------------: |
+|  1.  | [Sort 0s, 1s and 2s](GeeksforGeeks/Sort012.java)   | _Arrays, Dutch National Flag Algorithm_ | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+|  2.  | [Implement Atoi](GeeksforGeeks/ImplementAtoi.java) | _Strings_                               | ![Medium](https://img.shields.io/badge/-Medium-orange)  |
+|  -   | []()                                               | -                                       |                            -                            |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
